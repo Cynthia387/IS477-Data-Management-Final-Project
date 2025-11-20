@@ -31,7 +31,7 @@ The **second dataset** is called **“Obesity Among Adults by Country (1975-2016
 
 - Nov 4 – Nov 8	Exploratory Analysis (EDA)	Conduct initial EDA on integrated dataset: compute descriptive stats, correlation matrix, and create preliminary visualizations (global and regional trends). Identify insights to refine research questions.	Tracie
 
-- Nov 9 – Nov 13	Data Quality Assessment & Ethical Review	Assess data completeness, identify anomalies (e.g., calorie <800 or >5500, obesity >60%), and verify compliance with data licenses. Add findings to docs/data_quality.md.	Cynthia
+- Nov 9 – Nov 13	Data Quality Assessment & Ethical Review	Assess data completeness, identify anomalies (e.g., calorie <800 or >5500, obesity >60%), and verify compliance with data licenses. Add findings to docs/data_quality.md.	Tracie
 
 - Nov 14 – Nov 18	Status Report (Milestone 3)	Write and finalize StatusReport.md summarizing progress: dataset handling, integration, EDA visuals, and challenges. Include dataset references and repository links.	Tracie (EDA visuals & interpretation), Cynthia (methods & workflow summary)
 
