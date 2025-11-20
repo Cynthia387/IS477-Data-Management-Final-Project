@@ -28,7 +28,7 @@ def shafile(csv_path: str) -> None:
 
 def download_owid_calorie_data() -> None:
     dire(raw_dr)
-    print(f"Requesting OWID data from {owid_url} ...")
+    print(f"Requesting OWID data from {owid_url}")
     response = requests.get(owid_url, timeout=60)
     response.raise_for_status()
 
