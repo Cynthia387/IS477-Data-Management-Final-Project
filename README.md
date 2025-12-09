@@ -48,8 +48,9 @@ In conclusion, my findings show a strong overall pattern which is that higher ca
 
 **References:**
 
-- Datasets and Data Sources
-Food and Agriculture Organization of the United Nations (FAO). (2024). Food supply and nutrition data. FAO. (Primary source used in the OWID calorie dataset.)
+- Datasets and Data Sources:
+
+    - Food and Agriculture Organization of the United Nations (FAO). (2024). Food supply and nutrition data. FAO. (Primary source used in the OWID calorie dataset.)
 Harris, B., et al. (2015). Historical research contributing to long-term food supply estimates used in the OWID dataset.
 Floud, R., et al. (2011). The Changing Body: Health, Nutrition, and Human Development in the Western World since 1700. (Referenced by FAO/OWID for historical nutrition data.)
 Jonsson, U. (1998). Research on global nutrition patterns incorporated into the OWID dataset.
@@ -59,14 +60,14 @@ Food and Agriculture Organization of the United Nations. (2000). Early FAO nutri
 Food and Agriculture Organization of the United Nations. (1949). Foundational global food supply records included in OWID’s long-term dataset.
 USDA Economic Research Service (ERS). (2015). U.S. food supply data incorporated into OWID’s harmonized dataset.
 Ritchie, H., & Roser, M. (2023). Diet Compositions and Calorie Supply. Our World in Data. Retrieved from https://ourworldindata.org/diet-compositions (OWID performed major harmonization, processing, and compilation of all FAO and historical sources listed above.)
-World Health Organization. (2020). Obesity Among Adults by Country (1975–2016) [Dataset].
-Retrieved from Kaggle. (Original obesity prevalence data sourced from WHO’s Global Health Observatory.)
+
+    - World Health Organization. (2020). Obesity Among Adults by Country (1975–2016) [Dataset]. Retrieved from Kaggle. (Original obesity prevalence data sourced from WHO’s Global Health Observatory.)
 
 - Softwares and tools:
-pandas (Version 2.x). https://pandas.pydata.org/
-Matplotlib (Version 3.x). https://matplotlib.org/
-NumPy (Version 1.x). https://numpy.org/
-Python (Version 3.x). https://www.python.org/
+    - pandas (Version 2.x). https://pandas.pydata.org/
+    - Matplotlib (Version 3.x). https://matplotlib.org/
+    - NumPy (Version 1.x). https://numpy.org/
+    - Python (Version 3.x). https://www.python.org/
 
 
 
